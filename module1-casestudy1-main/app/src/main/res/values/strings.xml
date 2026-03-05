@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World Variations</string>
+    <string name="linear_layout_text">This is LinearLayout</string>
+    <string name="relative_layout_text">This is RelativeLayout</string>
+    <string name="constraint_layout_text">This is ConstraintLayout</string>
+    <string name="button_text">Change Text</string>
+</resources>
